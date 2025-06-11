@@ -23,7 +23,7 @@ Focus on **Recall** and **AUC-ROC** to minimize false negatives and financial lo
 - **Languages**: Python, SQL, C++,R programming
 - **Libraries**: Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn
 - **Concepts**: Supervised ML, Classification, Feature Selection, Cross-Validation
-- **Tools**: Jupyter Notebook, Power BI, Git, VS Code
+- **Tools**: Excel,Jupyter Notebook, Power BI, Git, VS Code
 
 ---
 
