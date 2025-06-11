@@ -29,5 +29,5 @@ Focus on **Recall** and **AUC-ROC** to minimize false negatives and financial lo
 
 ## 📫 Let's Connect
 
-- [LinkedIn]([https://www.linkedin.com/in/mohan-prasad-cr-828264155])
+- [LinkedIn][https://www.linkedin.com/in/mohan-prasad-cr-828264155)
 - [Email](mohan1331998@gmail.com)
